@@ -1,0 +1,8 @@
+{
+  "name": "innerverse",
+  "logo": "https://r.resimlink.com/g9W63bHEk8.png",
+  "rpc_url": "http://164.68.101.131:9944",
+  "explorer_url": "http://164.68.101.131:4000",
+  "metrics_endpoint": "http://164.68.101.131:9615/metrics",
+  "id": "dbf2111b-2562-44f5-a1d3-340903569776"
+}
